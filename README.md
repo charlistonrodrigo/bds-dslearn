@@ -10,16 +10,16 @@ Competências
 
 * Implementação de um modelo conceitual (modelo de domínio em nível de análise)
 * Instanciação (seed) de um modelo de domínio com SQL
-Reaproveitar “caixas de ferramentas” de projetos anteriores
-Incluir segurança com OAuth2 e JWT
-Incluir suporte a validação de dados com Bean Validation
-Incluir tratamento de exceções
-Realizar novas implementações de segurança
-Autorização customizada em nível de serviço
-Conteúdo customizado para o usuário logado
-Refresh token
-Pré-autorização de métodos
-Padrão de projeto observer / princípio SOLID OCP
+* Reaproveitar “caixas de ferramentas” de projetos anteriores
+* Incluir segurança com OAuth2 e JWT
+* Incluir suporte a validação de dados com Bean Validation
+* Incluir tratamento de exceções
+* Realizar novas implementações de segurança
+* Autorização customizada em nível de serviço
+* Conteúdo customizado para o usuário logado
+* Refresh token
+* Pré-autorização de métodos
+* Padrão de projeto observer / princípio SOLID OCP
  
 ## Informações adicionais
 
