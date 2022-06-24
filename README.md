@@ -11,5 +11,5 @@ Neste projeto foi desenvolvido uma implementação de testes de integração. E 
 ## Layout
 <p align="center">
   <img width="800" src="ModeloConceitual_DSLearn.png">
-  <img width="600" src="DSLearn_Postman.png">
+  <img width="800" src="DSLearn_Postman.png">
 </P>
