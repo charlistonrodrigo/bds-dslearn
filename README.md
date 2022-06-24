@@ -10,8 +10,6 @@ Este projeto foi desenvolvido uma implementação de testes de integração. E f
  
 ## Layout
 <p align="center">
-  <img width="600" src="frontend-web/src/core/assets/images/Rota.png">
-  <img width="600" src="frontend-web/src/core/assets/images/Card_Movies.jpg">
-  <img width="600" src="frontend-web/src/core/assets/images/movies_movieId.png">
- 
+  <img width="600" src="">
+  <img width="600" src="">
 </P>
