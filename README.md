@@ -8,8 +8,8 @@ Projeto DSLearn
 
 Competências
 
-Implementação de um modelo conceitual (modelo de domínio em nível de análise)
-Instanciação (seed) de um modelo de domínio com SQL
+* Implementação de um modelo conceitual (modelo de domínio em nível de análise)
+* Instanciação (seed) de um modelo de domínio com SQL
 Reaproveitar “caixas de ferramentas” de projetos anteriores
 Incluir segurança com OAuth2 e JWT
 Incluir suporte a validação de dados com Bean Validation
