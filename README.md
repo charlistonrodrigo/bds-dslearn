@@ -10,6 +10,6 @@ Este projeto foi desenvolvido uma implementação de testes de integração. E f
  
 ## Layout
 <p align="center">
-  <img width="600" src="">
+  <img width="600" src="ModeloConceitual_DSLearn.png">
   <img width="600" src="">
 </P>
